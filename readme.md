@@ -103,7 +103,7 @@ Ce projet est distribué sous licence libre.
 - Cabanes Antoine
 - Gaspard Virieux
 - Langoisco Raphael
-- Gruel Leo
+- Gruel Le-
 
 ## Remerciements
 - Keyestudio pour la documentation et les idées de projets
